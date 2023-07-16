@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ngawangpaljor
 - 👀 I’m interested in Cloud architect and Cloud administrator
-- 🌱 I’m currently learning php, Azure, Aws
+- 🌱 I’m currently learning PHP, Azure, Aws
 - 💞️ I’m looking to collaborate on ecommerce website
 - 📫 How to reach me - paljorngawang@gmail.com
 
