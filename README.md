@@ -1,7 +1,7 @@
 ## Hi there, I'm Ngawang Paljor 👋
 
 [![Website](https://img.shields.io/website?label=TenzinTsumdue.com&style=for-the-badge&url=https%3A%2F%2Fcodewithtenzin.com)](https://tenzintsundue.github.io/tentsun-portfolio/)
-<img align="right" width="350px" margin = "20px" src="https://github.com/TenzinTsundue/TenzinTsundue/blob/main/static/undraw_developer.svg">
+<img align="right" width="350px" margin = "20px" src="https://github.com/NgawangPaljor/NgawangPaljor/blob/main/static/undraw_developer.svg">
 
 ### I'm a Data Analyst!
 
